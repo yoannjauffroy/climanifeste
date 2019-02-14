@@ -4,7 +4,11 @@ En 2018, les émissions de gaz à effet de serre ont augmenté de 2.7% dans le m
 
 Face à l'urgence<sup>[9](#futura-giec)</sup>, peut-on laisser les entreprises responsables du réchauffement climatique <sup>[10](#forbes)</sup> et celles qui les financent<sup>[11,](#oxfam)</sup> <sup>[12,](#amisdelaterre-bnp)</sup> <sup>[13,](#amisdelaterre-ca)</sup> <sup>[14,](#amisdelaterre-socgen)</sup> <sup>[15,](#amisdelaterre-assureurs)</sup> <sup>[16](#amisdelaterre-pipeline)</sup> agir sans conséquences ? La jeunesse a décidé que non. Le Manifeste étudiant pour un réveil écologique<sup>[17](#manifeste-etudiants)</sup> déclare que ses 26 000 signataires «ne mettront pas leur énergie au service d'employeurs dont la stratégie et la vision du monde sont anachroniques»<sup>[18](#lesechos-manifeste)</sup>.
 
-En tant que professionnels de l'informatique, nous avons la chance de pouvoir choisir pour qui nous souhaitons travailler. Inspirons-nous donc des étudiants pour signifier aux entreprises climaticides que nous refuserons dorénavant de travailler pour elles. La plupart des entreprises peinent à recruter assez d'informaticiens<sup>[19](#lemonde-recrutement)</sup> et la situation ne devrait pas changer dans les prochaines années<sup>[20](#lefigaro-recrutement)</sup>. Profitons-en pour refuser les offres d'emploi et de missions en contradiction avec les impératifs climatiques. Nous sommes plusieurs centaines de milliers à travailler dans le numérique en France<sup>[21](#syntec)</sup>. Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au service d'entreprises qui répondent à nos valeurs, pas au profit de celles qui détruisent notre avenir !
+En tant que professionnels de l'informatique, nous avons la chance de pouvoir choisir pour qui nous souhaitons travailler. Inspirons-nous donc des étudiants pour **signifier aux entreprises climaticides que nous refuserons dorénavant de travailler pour elles**.
+
+La plupart des entreprises peinent à recruter assez d'informaticiens<sup>[19](#lemonde-recrutement)</sup> et la situation ne devrait pas changer dans les prochaines années<sup>[20](#lefigaro-recrutement)</sup>. Profitons-en pour refuser les offres d'emploi et de missions en contradiction avec les impératifs climatiques. Nous sommes plusieurs centaines de milliers à travailler dans le numérique en France<sup>[21](#syntec)</sup>.
+
+Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au service d'entreprises qui répondent à nos valeurs, pas au profit de celles qui détruisent notre avenir !
 
 ## Signataires
 
