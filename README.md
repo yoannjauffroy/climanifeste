@@ -10,11 +10,6 @@ La plupart des entreprises peinent à recruter assez d'informaticiens<sup>[19](#
 
 Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au service d'entreprises qui répondent à nos valeurs, pas au profit de celles qui détruisent notre avenir !
 
-## Signataires
-
-* [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
-* [Richard Hanna](https://supertanuki.github.io/home/), développeur
-
 ## Comment participer ?
 
 * Soutenez cette action en mettant une ⭐️ sur Github et surtout en vous ajoutant dans la liste des [signataires](#signataires) : faites une pull request et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet)` (et dans l'ordre alphabétique du nom de famille).
@@ -25,6 +20,11 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * Un site internet présentant la manifeste.
 * Un formulaire pour signer le manifeste (change.org ? SumOfUs ?).
 * Communiquer auprès des médias.
+
+## Premiers signataires
+
+* [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
+* [Richard Hanna](https://supertanuki.github.io/home/), développeur
 
 ---
 
