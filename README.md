@@ -23,7 +23,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 ## Que reste t-il à faire ?
 
 * Un site internet présentant la manifeste.
-* Un formulaire pour signer le manifeste (change.org ?).
+* Un formulaire pour signer le manifeste (change.org ? SumOfUs ?).
 * Communiquer auprès des médias.
 
 ---
