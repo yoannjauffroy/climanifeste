@@ -26,8 +26,8 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
-* [Hélène MARCHOIS](https://github.com/hmarchois), agiliste
-* [Mathieu MARCHOIS](https://github.com/mmarchois), développeur
+* [Hélène Marchois](https://github.com/hmarchois), agiliste
+* [Mathieu Marchois](https://github.com/mmarchois), développeur
 * Florent Nollet, Architecte technique
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), Designer
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
