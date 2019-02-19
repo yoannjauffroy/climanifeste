@@ -31,6 +31,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Mathieu Marchois](https://github.com/mmarchois), développeur
 * Florent Nollet, Architecte technique
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), Designer
+* [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 
 ---
