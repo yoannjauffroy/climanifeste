@@ -39,6 +39,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Yann Prou](https://github.com/toofff), développeur
+* [Maxime Veber](https://github.com/Nek-), développeur
 
 ---
 
