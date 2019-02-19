@@ -28,6 +28,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 ## Premiers signataires
 
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
+* [Olivier Dolbeau](https://github.com/odolbeau), CTO & Développeur
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
@@ -40,11 +41,8 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Yann Prou](https://github.com/toofff), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
-* [Olivier Dolbeau](https://github.com/odolbeau), CTO & Développeur
 
----
-
-Sources :
+## Sources du manifeste
 
 1. <a name="figaro-2.7" href="http://www.lefigaro.fr/sciences/2018/12/05/01008-20181205ARTFIG00331-nette-reprise-des-emissions-de-co2-en-2018.php">Nette reprise des émissions de CO2 en 2018 (Le Figaro, décembre 2018)</a>
 1. <a name="lci-6.7" href="https://www.lci.fr/green/rechauffement-climatique-temperatures-rapport-du-giec-la-france-n-est-meme-pas-au-niveau-des-engagements-de-l-accord-de-paris-2100133.html">Rapport du Giec : la France n'est même pas au niveau des engagements de l'accord de Paris (LCI, octobre 2018)</a>
