@@ -27,6 +27,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Mathieu MARCHOIS](https://github.com/mmarchois), développeur
+* [Hélène MARCHOIS](https://github.com/hmarchois), agiliste
 
 ---
 
