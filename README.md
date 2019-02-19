@@ -23,6 +23,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 
 ## Premiers signataires
 
+* [Nicolas Dievart](https://github.com/NicolasDievart), développeur
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Mathieu MARCHOIS](https://github.com/mmarchois), développeur
