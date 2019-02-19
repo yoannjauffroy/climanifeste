@@ -37,6 +37,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), Designer
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
+* [Yann Prou](https://github.com/toofff), développeur
 
 ---
 
