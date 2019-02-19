@@ -12,7 +12,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 
 ## Comment participer ?
 
-* Soutenez cette action en mettant une ⭐️ sur Github et surtout en vous ajoutant dans la liste des [signataires](#signataires) : faites une pull request et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet)` (et dans l'ordre alphabétique du nom de famille).
+* Soutenez cette action en mettant une ⭐️ sur Github et surtout en vous ajoutant dans la liste des [signataires](#signataires) : faites une pull request et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet)` (et dans l'ordre alphabétique du nom de famille) ou envoyez-nous un mail à climanifeste@gmail.com
 * Impliquez-vous : si vous avez une suggestion pour améliorer le texte ou ajouter un lien, n'hésitez pas à faire une pull request. Si vous êtes graphiste, juriste, communiquant, dans la relation presse, nous avons besoin de quelques heures de votre temps pour nous aider à faire connaitre ce manifeste. Écrivez-nous à climanifeste@gmail.com
 
 ## Que reste t-il à faire ?
