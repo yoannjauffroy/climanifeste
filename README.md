@@ -28,7 +28,8 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Hélène MARCHOIS](https://github.com/hmarchois), agiliste
 * [Mathieu MARCHOIS](https://github.com/mmarchois), développeur
-* Florent Nollet - Architecte technique
+* Florent Nollet, Architecte technique
+* [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), Designer
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 
 ---
