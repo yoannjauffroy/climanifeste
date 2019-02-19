@@ -23,11 +23,13 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 
 ## Premiers signataires
 
+* [Nicolas Dievart](https://github.com/NicolasDievart), développeur
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
-* [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
-* [Mathieu MARCHOIS](https://github.com/mmarchois), développeur
 * [Hélène MARCHOIS](https://github.com/hmarchois), agiliste
+* [Mathieu MARCHOIS](https://github.com/mmarchois), développeur
+* Florent Nollet - Architecte technique
+* [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 
 ---
 
