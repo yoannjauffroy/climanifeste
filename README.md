@@ -40,6 +40,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Yann Prou](https://github.com/toofff), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
+* [Olivier Dolbeau](https://github.com/odolbeau), CTO & Développeur
 
 ---
 
