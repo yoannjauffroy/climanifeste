@@ -18,8 +18,12 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 ## Que reste t-il à faire ?
 
 * Un site internet présentant le manifeste.
-* Un formulaire pour signer le manifeste (change.org ? SumOfUs ?).
+* Un formulaire pour signer le manifeste (change.org, SumOfUs, FramaForms?).
 * Communiquer auprès des médias.
+
+## En savoir plus
+
+* [Pour un manifeste écologique des professionnels de l'informatique, interview de Jean-François Fourmond](https://techologie.net/episodes/6-manifeste-ecologique-des-professionnels-de-l-informatique.html)
 
 ## Premiers signataires
 
