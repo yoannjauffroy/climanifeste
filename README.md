@@ -1,6 +1,6 @@
 # Manifeste écologique des professionnels de l'informatique
 
-En 2018, les émissions de gaz à effet de serre ont augmenté de 2.7% dans le monde<sup>[1](#figaro-2.7)</sup>. La France dépasse ses objectifs de réduction des émissions de 6.7%<sup>[2](#lci-6.7)</sup>. A ce rythme, nous finirons très loin de l'objectif de la COP21<sup>[3](#bfmtv-onu)</sup>. Mais partout dans le monde, les conséquences du réchauffement climatique se manifestent déja<sup>[4,](#franceinfo-portorico)</sup> <sup>[5](#capital-cout)</sup>. La France est le pays d'Europe le plus touché<sup>[6](#figaro-catastrophes)</sup> et à l'avenir, tou.te.s les français.e.s seront impacté.e.s : il y a quelques mois, le climatologue français Jean Jouzel alertait l'assemblée nationale du risque de connaître des records de température de 55°C en France en 2050<sup>[7,](#youtube-jouzel)</sup> <sup>[8](#franceinfo-jouzel)</sup>. Avec ces températures, la canicule de 2003 (15 000 morts en France<sup>[9](#liberation-canicule)</sup>) et ses records de 44°C feront figure de doux souvenir. 
+En 2018, les émissions de gaz à effet de serre ont augmenté de 2.7% dans le monde<sup>[1](#figaro-2.7)</sup>. La France dépasse ses objectifs de réduction des émissions de 6.7%<sup>[2](#lci-6.7)</sup>. A ce rythme, nous finirons très loin de l'objectif de la COP21<sup>[3](#bfmtv-onu)</sup>. Mais partout dans le monde, les conséquences du réchauffement climatique se manifestent déjà<sup>[4,](#franceinfo-portorico)</sup> <sup>[5](#capital-cout)</sup>. La France est le pays d'Europe le plus touché<sup>[6](#figaro-catastrophes)</sup> et à l'avenir, tou·te·s les français·e·s seront impacté·e·s : il y a quelques mois, le climatologue français Jean Jouzel alertait l'Assemblée nationale du risque de connaître des records de température de 55°C en France en 2050<sup>[7,](#youtube-jouzel)</sup> <sup>[8](#franceinfo-jouzel)</sup>. Avec ces températures, la canicule de 2003 (15 000 morts en France<sup>[9](#liberation-canicule)</sup>) et ses records de 44°C feront figure de doux souvenir. 
 
 Face à l'urgence<sup>[10](#latribune-giec)</sup>, peut-on laisser les entreprises responsables du réchauffement climatique <sup>[11](#forbes)</sup> et celles qui les financent<sup>[12,](#oxfam)</sup> <sup>[13,](#amisdelaterre-bnp)</sup> <sup>[14,](#amisdelaterre-ca)</sup> <sup>[15,](#amisdelaterre-socgen)</sup> <sup>[16,](#amisdelaterre-assureurs)</sup> <sup>[17](#amisdelaterre-pipeline)</sup> agir sans conséquences ? La jeunesse a décidé que non. Le Manifeste étudiant pour un réveil écologique<sup>[18](#manifeste-etudiants)</sup> déclare que ses 26 000 signataires «ne mettront pas leur énergie au service d'employeurs dont la stratégie et la vision du monde sont anachroniques»<sup>[19](#lesechos-manifeste)</sup>.
 
@@ -13,7 +13,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 ## Comment participer ?
 
 * Soutenez cette action en mettant une ⭐️ sur Github et surtout en vous ajoutant dans la liste des [signataires](#signataires) : faites une pull request et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet)` (et dans l'ordre alphabétique du nom de famille) ou envoyez-nous un mail à climanifeste@gmail.com
-* Impliquez-vous : si vous avez une suggestion pour améliorer le texte ou ajouter un lien, n'hésitez pas à faire une pull request. Si vous êtes graphiste, juriste, communiquant, dans la relation presse, nous avons besoin de quelques heures de votre temps pour nous aider à faire connaitre ce manifeste. Écrivez-nous à climanifeste@gmail.com
+* Impliquez-vous : si vous avez une suggestion pour améliorer le texte ou ajouter un lien, n'hésitez pas à faire une pull request. Si vous êtes graphiste, juriste, communiquant, dans la relation presse, nous avons besoin de quelques heures de votre temps pour nous aider à faire connaître ce manifeste. Écrivez-nous à climanifeste@gmail.com
 
 ## Que reste t-il à faire ?
 
@@ -34,6 +34,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
+* [Marc Loyat](https://github.com/mloyat/), développeur
 * [Hélène Marchois](https://github.com/hmarchois), agiliste
 * [Mathieu Marchois](https://github.com/mmarchois), développeur
 * Florent Nollet, Architecte technique
