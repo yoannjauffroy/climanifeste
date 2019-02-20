@@ -28,9 +28,11 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 ## Premiers signataires
 
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
+* [Julien Bouquillon](https://github.com/revolunet), développeur
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
 * [Olivier Dolbeau](https://github.com/odolbeau), CTO & Développeur
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
+* [Benoit Galati](https://github.com/b-galati), développeur
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
@@ -44,8 +46,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Yann Prou](https://github.com/toofff), développeur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Maxime Veber](https://github.com/Nek-), développeur
-* [Benoit Galati](https://github.com/b-galati), développeur
-* [Julien Bouquillon](https://github.com/revolunet), développeur
+
 
 ## Sources du manifeste
 
