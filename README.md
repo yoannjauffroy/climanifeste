@@ -45,6 +45,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Benoit Galati](https://github.com/b-galati), développeur
+* [Julien Bouquillon](https://github.com/revolunet), développeur
 
 ## Sources du manifeste
 
