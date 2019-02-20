@@ -33,6 +33,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Olivier Dolbeau](https://github.com/odolbeau), CTO & Développeur
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Benoit Galati](https://github.com/b-galati), développeur
+* [Kévin Grenier](https://github.com/mcsky), développeur back/front
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
