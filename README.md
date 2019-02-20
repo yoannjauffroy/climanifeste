@@ -43,6 +43,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Yann Prou](https://github.com/toofff), développeur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Maxime Veber](https://github.com/Nek-), développeur
+* [Benoit Galati](https://github.com/b-galati), développeur
 
 ## Sources du manifeste
 
@@ -68,5 +69,3 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 1. <a name="lemonde-recrutement" href="https://www.lemonde.fr/economie/article/2018/06/15/informatique-les-entreprises-francaises-peinent-a-recruter_5315494_3234.html">Informatique : les entreprises françaises peinent à recruter (Le Monde, juin 2018)</a>
 1. <a name="lefigaro-recrutement" href="http://www.lefigaro.fr/decideurs/emploi/2018/09/13/33009-20180913ARTFIG00016-l-informatique-ce-secteur-d-avenir-qui-ne-fait-pas-rever.php">L'informatique, ce secteur d'avenir... qui ne fait pas rêver (Le Figaro, septembre 2018)</a>
 1. <a name="syntec" href="https://syntec-numerique.fr/actu-informatique/bilan-2018-perspectives-2019">Bilan 2018 et Perspectives 2019 (Syntec Numérique, décembre 2018)</a>
-
-
