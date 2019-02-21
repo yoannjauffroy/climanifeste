@@ -46,6 +46,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
+* [Matthieu Scarset](https://matthieuscarset.com/), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
 
 
