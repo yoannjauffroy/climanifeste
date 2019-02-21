@@ -41,6 +41,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Marc Loyat](https://github.com/mloyat/), développeur
 * [Hélène Marchois](https://github.com/hmarchois), agiliste
 * [Mathieu Marchois](https://github.com/mmarchois), développeur
+* [Sylvain Martin](https://github.com/smartinus44), développeur front-end
 * Florent Nollet, Architecte technique
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), Designer
 * [Alan Poulain](https://github.com/alanpoulain), développeur
