@@ -27,6 +27,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 
 ## Premiers signataires
 
+* [Nicolas Arduin](https://www.nardu.in), Designer & développeur front-end
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
 * [Julien Bouquillon](https://github.com/revolunet), développeur
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
