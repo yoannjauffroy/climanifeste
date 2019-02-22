@@ -46,6 +46,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Sylvain Martin](https://github.com/smartinus44), développeur front-end
 * Florent Nollet, Architecte technique
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), Designer
+* [William Pollet] (https://github.com/williampollet), développeur
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
