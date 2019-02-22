@@ -38,6 +38,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
+* [Luc Leray](https://github.com/lucleray), développeur
 * [Marc Loyat](https://github.com/mloyat/), développeur
 * [Hélène Marchois](https://github.com/hmarchois), agiliste
 * [Mathieu Marchois](https://github.com/mmarchois), développeur
@@ -50,7 +51,6 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Matthieu Scarset](https://matthieuscarset.com/), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
-* [Luc Leray](https://github.com/lucleray), développeur
 
 
 ## Sources du manifeste
