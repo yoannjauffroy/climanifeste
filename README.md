@@ -50,6 +50,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
+* [Sunny Ripert](http://sunfox.org), développeur
 * [Joachim Robert](https://professeurjoachim.com), designer, intégrateur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Matthieu Scarset](https://matthieuscarset.com/), développeur
