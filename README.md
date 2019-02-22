@@ -30,6 +30,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Nicolas Arduin](https://www.nardu.in), Designer & développeur front-end
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
 * [Julien Bouquillon](https://github.com/revolunet), développeur
+* [Fanny Cheung](http://ynote.hk/), développeuse front-end
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
 * [Olivier Dolbeau](https://github.com/odolbeau), CTO & Développeur
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
