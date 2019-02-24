@@ -56,6 +56,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Sunny Ripert](http://sunfox.org), développeur
 * [Joachim Robert](https://professeurjoachim.com), designer, intégrateur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
+* [Martin Salles](https://github.com/sallesma), développeur
 * [Matthieu Scarset](https://matthieuscarset.com/), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
 
