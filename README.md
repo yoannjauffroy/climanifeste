@@ -38,6 +38,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Dimitri Fruit](https://twitter.com/DimitriMorgan), développeur et scrum master
 * [Benoit Galati](https://github.com/b-galati), développeur
+* [Cyrille Grandval](https://twitter.com/cyrillegrandval), CEO & développeur
 * [Kévin Grenier](https://github.com/mcsky), développeur back/front
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
