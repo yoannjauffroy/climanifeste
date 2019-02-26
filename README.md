@@ -13,7 +13,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 ## Comment participer ?
 
 * Soutenez cette action :
-  * **en vous ajoutant dans la [liste](#premiers-signataires) des signataires** : [modifiez cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md) et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet)` (et dans l'ordre alphabétique du nom de famille) ou envoyez-nous un mail à climanifeste@gmail.com
+  * **en vous ajoutant dans la [liste](#premiers-signataires) des signataires** : [modifiez cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md) et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet)` (dans l'ordre alphabétique du nom de famille) ou envoyez-nous un mail à climanifeste@gmail.com
   * et en mettant une ⭐️ sur Github
 * Impliquez-vous : si vous avez une suggestion pour améliorer le texte ou ajouter un lien, n'hésitez pas à [modifier cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md). Si vous êtes graphiste, juriste, communiquant, dans la relation presse, nous avons besoin de quelques heures de votre temps pour nous aider à faire connaître ce manifeste. Écrivez-nous à climanifeste@gmail.com ou venez en discuter sur le [Slack de Techologie](https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLWExNjQyNDM0MTA2MzFhMDc1NjllMjM5MWE1NzRlMmNlZGNjZjEyNDFlYjljOTM3NTRhNWE2ZjQ0MWYzOTE3YjM)
 
@@ -28,6 +28,8 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Pour un manifeste écologique des professionnels de l'informatique, interview de Jean-François Fourmond](https://techologie.net/episodes/6-manifeste-ecologique-des-professionnels-de-l-informatique.html)
 
 ## Premiers signataires
+
+[Cliquez-ici](https://github.com/climanifeste/climanifeste/edit/master/README.md) pour ajouter (ou enlever) votre nom à la liste des signataires (dans l'ordre alphabétique du nom de famille) ou envoyez-nous un mail à climanifeste@gmail.com. 
 
 * [Nicolas Arduin](https://www.nardu.in), Designer & développeur front-end
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
