@@ -31,6 +31,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 
 * [Nicolas Arduin](https://www.nardu.in), Designer & développeur front-end
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
+* [Nicolas Bondoux](https://github.com/Nsbx), Développeur web
 * [Julien Bouquillon](https://github.com/revolunet), développeur
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
@@ -49,7 +50,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Hélène Marchois](https://github.com/hmarchois), agiliste
 * [Mathieu Marchois](https://github.com/mmarchois), développeur
 * [Sylvain Martin](https://github.com/smartinus44), développeur front-end
-* Florent Nollet, Architecte technique
+* [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), Architecte technique
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), Designer
 * [William Pollet](https://github.com/williampollet), développeur
 * [Alan Poulain](https://github.com/alanpoulain), développeur
@@ -63,7 +64,6 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Matthieu Scarset](https://matthieuscarset.com/), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
-* [Nicolas Bondoux](https://github.com/Nsbx), Développeur web
 
 ## Sources du manifeste
 
