@@ -19,8 +19,9 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 
 ## Que reste t-il à faire ?
 
-* Un site internet présentant le manifeste au grand public (github pages).
-* Communiquer auprès des médias.
+* Un logo (en cours...).
+* Un site internet présentant le manifeste au grand public (en cours...).
+* Communiquer auprès des médias (on recherche un(e) chargé(e) de relation presse).
 
 ## En savoir plus
 
