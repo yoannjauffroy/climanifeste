@@ -21,6 +21,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 
 * Un logo (en cours...).
 * Un site internet présentant le manifeste au grand public (en cours...).
+* Arriver à un minimum de 100 signatures (en cours...).
 * Communiquer auprès des médias (on recherche un(e) chargé(e) de relation presse).
 
 ## En savoir plus
