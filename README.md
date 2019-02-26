@@ -62,6 +62,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Martin Salles](https://github.com/sallesma), développeur
 * [Matthieu Scarset](https://matthieuscarset.com/), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
+* [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 
 ## Sources du manifeste
 
