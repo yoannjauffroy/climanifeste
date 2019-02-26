@@ -37,6 +37,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Nicolas Bondoux](https://github.com/Nsbx), Développeur web
 * [Julien Bouquillon](https://github.com/revolunet), développeur
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
+* [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
 * [Olivier Dolbeau](https://github.com/odolbeau), CTO & Développeur
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
