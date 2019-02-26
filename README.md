@@ -63,6 +63,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Matthieu Scarset](https://matthieuscarset.com/), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
+* [Nicolas Bondoux](https://github.com/Nsbx), Développeur web
 
 ## Sources du manifeste
 
