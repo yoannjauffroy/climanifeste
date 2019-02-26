@@ -14,13 +14,12 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 
 * Soutenez cette action :
   * **en vous ajoutant dans la [liste](#premiers-signataires) des signataires** : [modifiez cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md) et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet)` (et dans l'ordre alphabétique du nom de famille) ou envoyez-nous un mail à climanifeste@gmail.com
-  * en mettant une ⭐️ sur Github
+  * et en mettant une ⭐️ sur Github
 * Impliquez-vous : si vous avez une suggestion pour améliorer le texte ou ajouter un lien, n'hésitez pas à [modifier cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md). Si vous êtes graphiste, juriste, communiquant, dans la relation presse, nous avons besoin de quelques heures de votre temps pour nous aider à faire connaître ce manifeste. Écrivez-nous à climanifeste@gmail.com ou venez en discuter sur le [Slack de Techologie](https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLWExNjQyNDM0MTA2MzFhMDc1NjllMjM5MWE1NzRlMmNlZGNjZjEyNDFlYjljOTM3NTRhNWE2ZjQ0MWYzOTE3YjM)
 
 ## Que reste t-il à faire ?
 
-* Un site internet présentant le manifeste.
-* Un formulaire pour signer le manifeste (change.org, SumOfUs, FramaForms?).
+* Un site internet présentant le manifeste au grand public (github pages).
 * Communiquer auprès des médias.
 
 ## En savoir plus
